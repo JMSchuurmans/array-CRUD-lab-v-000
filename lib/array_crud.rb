@@ -13,7 +13,6 @@ end
 
 def add_element_to_start_of_array(array, element)
   array = ["Element 1", " Element 2", "Element 3", "Element 4"]
-  array << "Element 4"
   array.unshift = ("Element 4")
 end
 
